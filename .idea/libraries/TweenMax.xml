@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TweenMax" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/greensock.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib" />
+    </SOURCES>
+  </library>
+</component>
